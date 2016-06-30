@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "type": "persons",
+      "id": "1",
+      "attributes": {
+        "name": "Alice Adams",
+        "icon": "http://example.com/persons/1.png",
+        "email": "alice.adams@example.com"
+      },
+      "links": {
+        "self": "http://example.com/persons/1"
+      },
+    },
+    {
+      "type": "persons",
+      "id": "2",
+      "attributes": {
+        "name": "Bob Brown",
+        "icon": "http://example.com/persons/2.png",
+        "email": "bob.brown@example.com"
+      },
+      "links": {
+        "self": "http://example.com/persons/2"
+      }
+    },
+    {
+      "type": "persons",
+      "id": "3",
+      "attributes": {
+        "name": "Carol Cooper",
+        "icon": "http://example.com/persons/3.png",
+        "email": "carol.cooper@example.com"
+      },
+      "links": {
+        "self": "http://example.com/persons/3"
+      }
+    }
+    {
+      "type": "places",
+      "id": "1",
+      "attributes": {
+        "name": "Athens",
+        "icon": "http://example.com/places/1.png",
+        "latitidue": "37.983810",
+        "longitude": "23.727539"
+      },
+      "links": {
+        "self": "http://example.com/places/1"
+      }
+    },
+    {
+      "type": "places",
+      "id": "2",
+      "attributes": {
+        "name": "Berlin",
+        "icon": "http://example.com/places/2.png",
+        "latitidue": "52.520007",
+        "longitude": "13.404954"
+      },
+      "links": {
+        "self": "http://example.com/places/2"
+      },
+    },
+    {
+      "type": "places",
+      "id": "3",
+      "attributes": {
+        "name": "Cairo",
+        "icon": "http://example.com/places/3.png",
+        "latitidue": "30.044420",
+        "longitude": "31.235712"
+      },
+      "links": {
+        "self": "http://example.com/places/3"
+      }
+    },
+    {
+      "type": "events",
+      "id": "1",
+      "attributes": {
+        "name": "All Hands Meeting",
+        "icon": "http://example.com/events/1.png",
+        "start": "2016-01-01T01:01:01Z",
+        "stop": "2016-01-01T02:02:02Z"
+      },
+      "links": {
+        "self": "http://example.com/events/1"
+      }
+    },
+    {
+      "type": "events",
+      "id": "2",
+      "attributes": {
+        "name": "Birthday Party",
+        "icon": "http://example.com/events/2.png",
+        "start": "2016-02-02T02:02:02Z",
+        "stop": "2016-02-02T03:03:03Z"
+      },
+      "links": {
+        "self": "http://example.com/events/2"
+      }
+    },
+    {
+      "type": "events",
+      "id": "3",
+      "attributes": {
+        "name": "Camping Trip",
+        "icon": "http://example.com/events/3.png",
+        "start": "2016-03-03T03:03:03Z",
+        "stop": "2016-03-03T04:04:04Z"
+      },
+      "links": {
+        "self": "http://example.com/events/3"
+      }
+    },
+    {
+      "type": "things",
+      "id": "1",
+      "attributes": {
+        "name": "apple",
+        "icon": "http://example.com/things/1.png",
+        "mass": 91,
+        "color": "red"
+      },
+      "links": {
+        "self": "http://example.com/things/1"
+      }
+    },
+    {
+      "type": "things",
+      "id": "2",
+      "attributes": {
+        "name": "banana",
+        "icon": "http://example.com/things/2.png",
+        "mass": 182,
+        "color": "yellow"
+      },
+      "links": {
+        "self": "http://example.com/things/2"
+      }
+    },
+    {
+      "type": "things",
+      "id": "3",
+      "attributes": {
+        "name": "carrot",
+        "icon": "http://example.com/things/3.png",
+        "mass": 63,
+        "color": "orange"
+      },
+      "links": {
+        "self": "http://example.com/things/3"
+      }
+    }
+  ]
+}
