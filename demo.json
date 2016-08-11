@@ -76,45 +76,6 @@
       }
     },
     {
-      "type": "events",
-      "id": "1",
-      "attributes": {
-        "name": "All Hands Meeting",
-        "icon": "http://example.com/events/1.png",
-        "start": "2016-01-01T01:01:01Z",
-        "stop": "2016-01-01T02:02:02Z"
-      },
-      "links": {
-        "self": "http://example.com/events/1"
-      }
-    },
-    {
-      "type": "events",
-      "id": "2",
-      "attributes": {
-        "name": "Birthday Party",
-        "icon": "http://example.com/events/2.png",
-        "start": "2016-02-02T02:02:02Z",
-        "stop": "2016-02-02T03:03:03Z"
-      },
-      "links": {
-        "self": "http://example.com/events/2"
-      }
-    },
-    {
-      "type": "events",
-      "id": "3",
-      "attributes": {
-        "name": "Camping Trip",
-        "icon": "http://example.com/events/3.png",
-        "start": "2016-03-03T03:03:03Z",
-        "stop": "2016-03-03T04:04:04Z"
-      },
-      "links": {
-        "self": "http://example.com/events/3"
-      }
-    },
-    {
       "type": "things",
       "id": "1",
       "attributes": {
@@ -153,5 +114,44 @@
         "self": "http://example.com/things/3"
       }
     }
+    {
+      "type": "events",
+      "id": "1",
+      "attributes": {
+        "name": "All Hands Meeting",
+        "icon": "http://example.com/events/1.png",
+        "start": "2016-01-01T01:01:01Z",
+        "stop": "2016-01-01T02:02:02Z"
+      },
+      "links": {
+        "self": "http://example.com/events/1"
+      }
+    },
+    {
+      "type": "events",
+      "id": "2",
+      "attributes": {
+        "name": "Birthday Party",
+        "icon": "http://example.com/events/2.png",
+        "start": "2016-02-02T02:02:02Z",
+        "stop": "2016-02-02T03:03:03Z"
+      },
+      "links": {
+        "self": "http://example.com/events/2"
+      }
+    },
+    {
+      "type": "events",
+      "id": "3",
+      "attributes": {
+        "name": "Camping Trip",
+        "icon": "http://example.com/events/3.png",
+        "start": "2016-03-03T03:03:03Z",
+        "stop": "2016-03-03T04:04:04Z"
+      },
+      "links": {
+        "self": "http://example.com/events/3"
+      }
+    },
   ]
 }
